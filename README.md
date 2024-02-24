@@ -4,7 +4,7 @@
 
 I created a simple task tracking web application using HTML CSS and JavaScript.
 
-# The functionalities are:
+## The functionalities are:
 
 When the user wants to add a task, they can enter and add this task through a form.
 
@@ -16,7 +16,7 @@ Tasks can be deleted. Deletion is controlled by the checkbox.
 
 Added tasks are stored using browser localStorage and are preserved even when the page is refreshed.
 
-Key achievements:
+## Key achievements:
 
 DOM (Document Object Model) manipulation and event listening.
 
